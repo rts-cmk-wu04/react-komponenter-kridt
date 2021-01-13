@@ -1,0 +1,46 @@
+.must_see{
+    grid-area: 4/1/4/8;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: repeat(2, auto);
+}
+
+.logo p{
+    text-transform: uppercase;
+    color: white;
+    margin-top: 10%;
+}
+
+.background{
+    grid-area: 1/1/-1/-1;
+}
+
+.logo{
+    grid-area: 1/1/1/1;
+    display: flex;
+}
+
+.logo img{
+    width: 23px;
+    height: 23px;
+    margin-left: 36px;
+    margin-top: 36px;
+}
+
+.info_must{
+    grid-area: 2/1/2/1;
+    margin-left: 36px;
+    color: white;
+    margin-top: 5em;
+    margin-bottom: 1%;
+}
+
+.info_must h1{
+    font-size: 48px;
+    max-width: 354px;
+}
+.info_must p{
+    max-width: 420px;
+    position: relative;
+    bottom: 40px;
+}
