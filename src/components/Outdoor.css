@@ -1,0 +1,40 @@
+.outdoor{
+    display: flex;
+    grid-area: 1/5/1/12;
+    background-color: white;
+    width: 771px;
+    border-radius: 15px;
+}
+.bigPhoto_outdoor{
+    margin-left: 49px;
+    margin-top: 43px;
+}
+.text_outdoor{
+    max-width: 314px;
+}
+.smallPhotos_outdoor img{
+    margin-right: 15px;
+    margin-top: 4%;
+}
+.info_outdoor{
+    margin-left: 38px;
+    margin-top: 43px;
+}
+.title_outdoor{
+    font-size: 45px;
+    line-height: 51px;
+    margin: 0;
+}
+.category_outdoor{
+    text-transform: uppercase;
+    background-color: #005AEE;
+    max-width: 99px;
+    height: 33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 50px;
+    margin: 0;
+    margin-left: 60%;
+}

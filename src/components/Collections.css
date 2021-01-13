@@ -1,0 +1,17 @@
+.Collections1{
+    width: 372px;
+    height: 373px;
+    background-color: white;
+    grid-area: 3/1/3/4;
+    border-radius: 15px;
+    display: grid;
+
+}
+
+.info_collection{
+    color: black;
+    text-align: center;
+}
+.title_collection{
+    font-size: 18px;
+}

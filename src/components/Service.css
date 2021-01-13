@@ -1,0 +1,75 @@
+.service_delivery{
+    width: 266px;
+    height: 272px;
+    background-color: #005AEE;
+    grid-area: 2/1/2/3;
+    border-radius: 15px;
+    text-align: right;
+}
+
+.service_delivery img{
+    margin: 0;
+    margin-top: 28px;
+    margin-right: 31px;
+}
+
+.info{
+    color: white;
+    text-align: left;
+}
+
+.title_service{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.service_parcel{
+    grid-area: 2/4/2/6;
+    background-color: #FFA767;
+    width: 266px;
+    height: 272px;
+    border-radius: 15px;
+    text-align: right;
+}
+
+.service_parcel img{
+    margin: 0;
+    margin-top: 28px;
+    margin-right: 31px;
+}
+
+
+
+
+.service_quality{
+    grid-area: 2/7/2/9;
+    background-color: #0AACDC;
+    width: 266px;
+    height: 272px;
+    border-radius: 15px;
+    text-align: right;
+}
+
+.service_quality img{
+    margin: 0;
+    margin-top: 28px;
+    margin-right: 31px;
+}
+
+
+
+
+.service_customer{
+    grid-area: 2/10/2/12;
+    background-color: #597AEF;
+    width: 258px;
+    height: 272px;
+    border-radius: 15px;
+    text-align: right;
+}
+
+.service_customer img{
+    margin: 0;
+    margin-top: 28px;
+    margin-right: 31px;
+}
