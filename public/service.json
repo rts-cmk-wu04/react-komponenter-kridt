@@ -1,0 +1,24 @@
+[
+      {
+        "title_delivery": "on-time delivery",
+        "text_delivery": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit ",
+        "logo_delivery": "./images/path_1.png",
+      
+    
+     
+        "title_parcels": "parcels",
+        "text_parcels": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit ",
+        "logo_parcels": "./images/parcels_icon.png",
+    
+     
+      "title_quality": "quality check",
+        "text_quality": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit ",
+        "logo_quality": "./images/quality_icon.png",
+    
+    
+      "title_customer": "customer service",
+        "text_customer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit ",
+        "logo_customer": "./images/group_4.png"
+    }
+]
+  

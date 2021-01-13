@@ -1,0 +1,22 @@
+.surfing_in_maldives{
+    background-color: white;
+    grid-area: 1/1/1/4;
+    border-radius: 15px;
+    width: 372px;
+}
+
+.surfing_in_maldives img{
+    border-radius: 15px 15px 0 0;
+    width: 100%;
+}
+
+.info_travel{
+    margin-left: 2em;
+    margin-right: 50px;
+}
+
+.category_travel{
+    color: #33439B;
+    font-size: 11px;
+    text-transform: uppercase;
+}

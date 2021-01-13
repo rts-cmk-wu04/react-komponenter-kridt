@@ -1,0 +1,29 @@
+[{
+     
+      "collection1": "collection #10",
+      "title": "Off-the-grid experiences",
+      "by": "Melanie S.",
+        "img1": "./images/rectangle_13.png",
+        "profilePic": "./images/ellipse_33.png",
+        
+    
+        "collection2": "collection #1",
+      "title_2": "Shapes, triangles & fashion",
+      "by_2": "Saraha F.",
+      
+        "img1_2": "./images/rectangle_14.png",
+        "profilePic_2": "./images/ellipse_34.png",
+       
+
+        "collection3": "collection #123",
+      "title_3": "In-depth architecture",
+      "by_3": "Benhour",
+      
+        "img1_3": "./images/rectangle_15.png",
+        "profilePic_3": "./images/ellipse_35.png"
+        
+    
+
+
+  }      
+]

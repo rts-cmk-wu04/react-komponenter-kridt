@@ -1,0 +1,7 @@
+.App{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 21px;
+    grid-row-gap: 25px;
+    margin-left: 61px;
+}
