@@ -1,32 +1,6 @@
 {
     
-    "latesNews": [{
-      "nature":{
-        "title": "nature",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
-        "img": "./images/rectangle_29"
-      },
-      "animal": {
-        "title": "animal kingdom",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
-        "img": "./images/rectangle_30"
-      },
-      "tech": {
-        "title": "technology",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
-        "img": "./images/rectangle_31"
-      },
-      "explore": {
-        "title": "explore",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
-        "img": "./images/rectangle_32"
-      },
-      "africa": {
-        "title": "africa zoo",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
-        "img": "./images/rectangle_33"
-      }
-    }],
+
     "food_lifestyle_fashion": [{
       "foodLifestyle": {
         "title": "food & lifestyle",
