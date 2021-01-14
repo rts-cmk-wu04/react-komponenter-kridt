@@ -1,0 +1,96 @@
+{
+    "mustSee":[{
+      "title": "Must see places for summer",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam ",
+      "images": "./images/news_logo"
+    }],
+    "latesNews": [{
+      "nature":{
+        "title": "nature",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "img": "./images/rectangle_29"
+      },
+      "animal": {
+        "title": "animal kingdom",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "img": "./images/rectangle_30"
+      },
+      "tech": {
+        "title": "technology",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "img": "./images/rectangle_31"
+      },
+      "explore": {
+        "title": "explore",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "img": "./images/rectangle_32"
+      },
+      "africa": {
+        "title": "africa zoo",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "img": "./images/rectangle_33"
+      }
+    }],
+    "food_lifestyle_fashion": [{
+      "foodLifestyle": {
+        "title": "food & lifestyle",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "img": "./images/rectangle_20"
+      },
+      "fashion": {
+        "title": "fashion",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "img": "./images/rectangle_22"
+      }
+    }],
+    "architechture_travel_greenery": [{
+      "architechture": {
+        "title": "architechture",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas ",
+        "img": "./images/architechture"
+      },
+      "greenery": {
+        "title": "greenery",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas ",
+        "img": "./images/greenery"
+      },
+      "beaches": {
+        "title": "beachest",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas ",
+        "img": "./images/rectangle_38"
+      },
+      "travel": {
+        "title": "travel & leisure",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas ",
+        "img": "./images/rectangle_53"
+      }
+    }],
+    "virtuel_reality": {
+      "text": "technology",
+      "img": "./images/mask_group_1"
+    },
+    "design_education": [{
+      "design": {
+        "text": "design",
+        "img": "design_icon" 
+      },
+      "education":{
+        "text": "education",
+        "img": "./images/education_icon"
+      }
+    }],
+    "newYorkTimes":[{
+      "top": {
+        "img": "./images/news_logo",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+      },
+      "bot": {
+        "img": "./images/news_logo",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. ",
+        "background_img": "./images/rectangle_35"
+        
+      }
+    }]
+
+}
+  
