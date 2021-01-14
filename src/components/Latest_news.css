@@ -1,8 +1,43 @@
-.lates_news{
-    grid-area: 5/8/5/12;
+.latest_news{
+    grid-area: 5/9/5/12;
+    background-color: white;
+    width: 372px;
+    border-radius: 10px;
 }
 .lates_news_header{
+    border-radius: 10px 10px 0 0;
     width: 372px;
     height: 55px;
     background-color: #3F51B5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: white;
+}
+
+.newsCard{
+    display: flex;
+    margin-left: 26px;
+    margin-top: 27px;
+    width: 320px;
+}
+.info_news{
+    margin-left: 23px;
+    width: 170px;
+}
+
+.nature{
+    color: #40BE65;
+    text-transform: uppercase;
+}
+
+.moreNews{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: #7B8591;
+    font-weight: bold;
+    border-top: 1px solid lightgrey;
 }

@@ -2,24 +2,23 @@
     
       "title_nature": "nature",
       "text_nature": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
-      "img_nature": "./images/rectangle_29",
-    
+      "img_nature": "./images/rectangle_29.png",
     
       "title_animal": "animal kingdom",
       "text_animal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
-      "img_animal": "./images/rectangle_30",
+      "img_animal": "./images/rectangle_30.png",
     
     
       "title_tech": "technology",
       "text_tech": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
-      "img_tech": "./images/rectangle_31",
+      "img_tech": "./images/rectangle_31.png",
     
       "title_explore": "explore",
       "text_explore": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
-      "img_explore": "./images/rectangle_32",
+      "img_explore": "./images/rectangle_32.png",
     
       "title_africa": "africa zoo",
       "text_africa": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
-      "img_africa": "./images/rectangle_33"
+      "img_africa": "./images/rectangle_33.png"
     
   }]

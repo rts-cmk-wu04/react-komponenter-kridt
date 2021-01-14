@@ -1,6 +1,6 @@
 import "./Latest_news.css";
 
-export default function Latest_news({ image_news_nature, title_news_nature, text_news_nature }) {
+export default function Latest_news({ image_news_nature, title_news_nature, text_news_nature, font_color_nature }) {
 
     return(
         <article className="latest_news">
@@ -13,10 +13,55 @@ export default function Latest_news({ image_news_nature, title_news_nature, text
                 </div>
 
                 <div className="info_news">
+                    <h1 className="nature">{title_news_nature}</h1>
+                    <p>{text_news_nature}</p>
+                </div>
+            </section>
+            <section className="newsCard">
+                <div className="photo_news">
+                    <img src={image_news_nature} alt="news"/>
+                </div>
+
+                <div className="info_news">
                     <h1>{title_news_nature}</h1>
                     <p>{text_news_nature}</p>
                 </div>
             </section>
+            <section className="newsCard">
+                <div className="photo_news">
+                    <img src={image_news_nature} alt="news"/>
+                </div>
+
+                <div className="info_news">
+                    <h1>{title_news_nature}</h1>
+                    <p>{text_news_nature}</p>
+                </div>
+            </section>
+            <section className="newsCard">
+                <div className="photo_news">
+                    <img src={image_news_nature} alt="news"/>
+                </div>
+
+                <div className="info_news">
+                    <h1>{title_news_nature}</h1>
+                    <p>{text_news_nature}</p>
+                </div>
+            </section>
+            <section className="newsCard">
+                <div className="photo_news">
+                    <img src={image_news_nature} alt="news"/>
+                </div>
+
+                <div className="info_news">
+                    <h1>{title_news_nature}</h1>
+                    <p>{text_news_nature}</p>
+                </div>
+
+
+            </section>
+                <div className="moreNews">
+                <p>more news</p>
+                </div>
         </article>
     )
 
