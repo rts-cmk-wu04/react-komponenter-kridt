@@ -1,0 +1,8 @@
+.lates_news{
+    grid-area: 5/8/5/12;
+}
+.lates_news_header{
+    width: 372px;
+    height: 55px;
+    background-color: #3F51B5;
+}
