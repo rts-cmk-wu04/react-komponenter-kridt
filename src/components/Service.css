@@ -13,9 +13,13 @@
     margin-right: 31px;
 }
 
-.info{
+.info_service{
     color: white;
     text-align: left;
+    margin-left: 28px;
+}
+.info_service h1{
+    text-transform: uppercase;
 }
 
 .title_service{

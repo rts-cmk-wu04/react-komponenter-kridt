@@ -53,7 +53,7 @@ function App() {
     });
   }, []); 
   useEffect(function() {
-
+    fetch("must_see.json")
     .then(function(response) {
       return response.json();
     })
